@@ -1,1 +1,1 @@
-"Aithor": "Raphael",
+"Author": "Raphael",
